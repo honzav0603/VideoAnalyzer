@@ -5,6 +5,8 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <RootNamespace>VideoAnalyzer</RootNamespace>
+    <AssemblyName>VideoAnalyzer</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>

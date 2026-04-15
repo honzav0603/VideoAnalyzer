@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using Spectre.Console;
 
-namespace ConsoleApp1
+namespace VideoAnalyzer
 {
     internal class Program
     {
